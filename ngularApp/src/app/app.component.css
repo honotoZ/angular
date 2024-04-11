@@ -1,0 +1,14 @@
+h2{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1em;
+    background-color: orangered;
+    color: antiquewhite;
+}
+h3{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0.5em;
+    background-color: black;
+    color: white;
+}
